@@ -7,3 +7,9 @@
 	Keeps computer from sleeping/goin g to standby. Plans for a HIGHLY configurable utility in the future!
 
 #ce ----------------------------------------------------------------------------
+
+
+
+
+
+
